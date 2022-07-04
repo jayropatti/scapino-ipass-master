@@ -1,5 +1,8 @@
 package nl.hu.bep.domeinmodel;
 
+
+import javax.security.auth.Subject;
+import java.security.Principal;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
